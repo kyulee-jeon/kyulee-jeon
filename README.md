@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyulee-jeon
-- 👀 I’m interested in Health Data
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning CDM
 - 📫 kyulee.jeon@gmail.com
 
