@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyulee-jeon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning CDM
+- 👀 I’m interested in Digital Healthcare
+- 🌱 I’m currently learning CDM, Python
 - 📫 kyulee.jeon@gmail.com
 
 <!---
