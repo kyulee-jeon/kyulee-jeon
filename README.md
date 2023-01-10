@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyulee-jeon
-- 👀 I’m interested in Digital Healthcare
-- 🌱 I’m currently learning CDM, Python
+- 👀 I’m interested in Digital Health
+- 🌱 I’m currently learning AI, DL, CDM
 
 <!---
 kyulee-jeon/kyulee-jeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
