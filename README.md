@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyulee-jeon
 - 👀 I’m interested in Medical Informatics
-- 🌱 I’m currently learning CDM(Common Data Model), Medical AI, Infrastructure for Medical Big Data
+- 🌱 CDM(Common Data Model), Medical AI, Infrastructure for Medical Big Data
 
 <!---
 kyulee-jeon/kyulee-jeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
