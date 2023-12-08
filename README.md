@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyulee-jeon
-- 👀 I’m interested in Medical Informatics
+- 👀 I’m studying in Medical Informatics
 - 🌱 Artificial intelligence, Big Data Infrastructure, Common Data Model, Data Standardization
 
 <!---
